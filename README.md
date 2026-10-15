@@ -1,3 +1,4 @@
+![Profile Banner](https://github.com/pratikdesai2005/Pratik-Desai/blob/main/Black%20Minimalist%20Linkedin%20Banner.png
 <h1 align="center">Hi 👋, I'm Pratik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
